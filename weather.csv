@@ -1,0 +1,9 @@
+day,city,temperature,windspeed,event 
+1/1/2017,new york,32,6,Rain
+1/1/2017,new york,36,7,Sunny
+1/1/2017,new york,28,12,Snow
+1/1/2017,new york,33,7,Sunny
+1/1/2017,Mumbai,90,5,Sunny
+1/1/2017,Mumbai,85,12,Fog
+1/1/2017,Mumbai,87,15,Fog
+1/1/2017,Mumbai,92,5,Rain
